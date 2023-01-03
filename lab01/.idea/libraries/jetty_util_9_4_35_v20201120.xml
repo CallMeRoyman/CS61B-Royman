@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jetty-util-9.4.35.v20201120">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../library-fa22/jetty-util-9.4.35.v20201120.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../library-fa22/jh61b.jar!/" />
+    </SOURCES>
+  </library>
+</component>

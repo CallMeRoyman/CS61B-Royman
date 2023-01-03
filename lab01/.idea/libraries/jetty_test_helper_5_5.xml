@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jetty-test-helper-5.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../library-fa22/jetty-test-helper-5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
